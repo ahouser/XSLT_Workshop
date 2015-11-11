@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Entering text</title>
+<taskbody>
+<context>Your phone is equipped with an alpha-numeric
+keypad that supports entering numbers, letters, and special characters.</context>
+<steps>
+<step>
+<cmd>At the blinking cursor, and
+using your phone's keypad and the character table as guides, press
+the appropriate key until the character you want is displayed.</cmd></step>
+<step>
+<cmd>Pause for one full second before
+entering the next character.</cmd></step></steps></taskbody></task>

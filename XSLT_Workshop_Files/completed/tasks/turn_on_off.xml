@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Turning the phone on or off</title>
+<prolog/>
+<taskbody>
+<context><p>You
+may wish to turn your phone off when you do not wish to receive
+calls. For example:</p><ul>
+<li>you are in a meeting and do not want to
+be disturbed.</li>
+<li>you are sleeping.</li>
+<li>you are in an environment in which you
+do not want to disturb others (e.g., a theater or a lecture).</li></ul><p>Turning off the phone when you do not wish
+to receive calls will conserve the battery life between chargings.
+When your phone is off, incoming calls will be directed to your
+voicemail. Incoming calls are also reflected in your call log.</p><p>To turn the phone on or off:</p></context>
+<steps>
+<step>
+<cmd>Press the <uicontrol>Power</uicontrol> key,
+and hold it down for 1 full second.</cmd></step></steps></taskbody></task>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Checking a message</title>
+<prolog/>
+<taskbody>
+<context><p>If
+you receive a call when your telephone is turned off or you are
+on another call, the caller is directed to your voicemail box. The
+caller can leave a recorded message that you can retrieve later.</p><p>To check your voicemail messages:</p></context>
+<steps>
+<step>
+<cmd>Press the <uicontrol>menu</uicontrol> key, and
+choose <uicontrol>voicemail</uicontrol>.</cmd></step>
+<step>
+<cmd>Choose <uicontrol>retrieve</uicontrol>.Your
+phone will play back any recorded voicemail messages.</cmd></step></steps></taskbody></task>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" platform="video">
+<title>Watching video</title>
+<prolog/>
+<taskbody><context><p>Your cell phone includes a built-in video
+player. You can watch MPEG-3 videos, music videos, or even full-length
+television shows or movies.</p><p>To watch a video:</p></context>
+<steps><step><cmd>Press the <uicontrol>Options</uicontrol> key,
+and choose <uicontrol>video</uicontrol>.</cmd></step>
+<step><cmd>Press the <uicontrol>1</uicontrol> key to play, the <uicontrol>2</uicontrol> key
+to pause, and the <uicontrol>3</uicontrol> key to exit the video
+player.</cmd></step></steps></taskbody></task>

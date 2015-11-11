@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Detaching the battery</title>
+<prolog/>
+<taskbody>
+<context><note type="danger"><p>To avoid the
+chance of a severe shock, turn off your phone before detaching the
+battery!</p></note><p>To detach the battery:</p></context>
+<steps>
+<step>
+<cmd>Press the button at the top
+of the battery.</cmd></step>
+<step>
+<cmd>While holding the button down,
+slide the battery toward the bottom of the phone.</cmd></step>
+<step>
+<cmd>Lift the battery up and off
+the phone.</cmd></step></steps></taskbody></task>

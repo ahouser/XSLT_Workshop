@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Selecting a ringtone</title>
+<prolog/>
+<taskbody>
+<context><p>You
+may select from a large variety of ringtones from your cell phone
+provider. There is a small fee for most ringtones.</p><p>To select a ringtone:</p></context>
+<steps>
+<step>
+<cmd>Press the <uicontrol>menu</uicontrol> key, and
+select <uicontrol>view ringtones</uicontrol>. </cmd></step>
+<step>
+<cmd>Use the <uicontrol>arrow</uicontrol> keys
+to navigate through the list of ringtones. </cmd></step>
+<step>
+<cmd>Press <uicontrol>select</uicontrol> to purchase
+a highlighted ringtone. </cmd></step></steps></taskbody></task>

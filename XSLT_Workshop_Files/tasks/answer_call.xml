@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Answering a call</title>
+<prolog/>
+<taskbody>
+<context><p>Depending
+on the notification method you have chosen, you phone will alert
+you to an incoming call in one or more of the following ways:</p><ul>
+<li>The phone screen will flash and display the number of the incoming
+call.</li>
+<li>The phone will ring.</li>
+<li>The phone will play the ringtone that you have currently selected.</li>
+<li>The phone will vibrate.</li></ul><p>To
+answer a call</p></context>
+<steps>
+<step>
+<cmd>Press the <uicontrol>start</uicontrol> key,
+and hold it down for 1 full second.</cmd></step></steps></taskbody></task>

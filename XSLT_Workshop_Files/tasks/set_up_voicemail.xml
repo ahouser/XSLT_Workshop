@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Setting up voicemail</title>
+<prolog/>
+<taskbody>
+<context><p>If
+you receive a call when your phone is off or when you are on another
+call, the incoming call will be directed into your voicemail box.
+The caller can leave a message for you.</p><p>You
+can set up the outgoing message and password for your voicemail
+box.</p><p>You may wish to turn your phone
+off when you are not expecting to receive calls. This will conserve
+the battery life between chargings. When your phone is off, incoming
+calls will be directed to your voicemail. Incoming calls are also
+reflected in your call log.</p></context>
+<steps>
+<step>
+<cmd>To set up the outgoing message,
+press <uicontrol>menu</uicontrol>,
+then <uicontrol>voicemail</uicontrol>,
+then <uicontrol>record message</uicontrol>.
+Speak your outgoing message into the microphone. You may record
+a message up to 30 seconds long. When you have finished recording,
+press the <uicontrol>record
+message</uicontrol> button again.</cmd></step>
+<step>
+<cmd>To set your voicemail password,
+press <uicontrol>menu</uicontrol>,
+then voicemail, then <uicontrol>password</uicontrol>.
+Your password may be between 4 and 7 characters long. Your phone
+will prompt you for your current password if you had previously
+chosen one.</cmd></step></steps></taskbody></task>

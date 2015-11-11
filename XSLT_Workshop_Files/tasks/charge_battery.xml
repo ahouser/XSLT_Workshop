@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Charging the battery</title>
+<prolog/>
+<taskbody>
+<context>The rechargeable
+battery on your new phone requires a first-time charge of at least
+24 hours for optimum performance.</context>
+<steps>
+<step>
+<cmd>Plug the connector into the
+jack on the bottom of the phone, and plug the power supply into
+a standard 120V AC outlet.</cmd>
+<info>While the battery is
+charging, a strength indicator appears as a series of boxes in the
+display. When the charge is complete, the boxes are all solid.</info></step>
+<step>
+<cmd>When the charge is complete,
+unplug the phone.</cmd></step></steps></taskbody></task>

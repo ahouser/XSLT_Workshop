@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Attaching the fully rechargable
+battery</title>
+<prolog/>
+<taskbody>
+<context><p>Your
+new cellular phone comes with a rechargeable battery that is packaged
+separately.</p></context>
+<steps>
+<step>
+<cmd>Place the battery on the back
+of the phone with the arrows and button pointing toward the top
+of the phone.</cmd></step>
+<step>
+<cmd>Slide it in the direction of
+the arrows until it clicks into place.</cmd></step></steps></taskbody></task>

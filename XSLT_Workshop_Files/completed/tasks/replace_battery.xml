@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Replacing the battery</title>
+<prolog/>
+<taskbody>
+<context>You may wish to upgrade your phone to a higher-capacity battery, or 
+you may need to replace the rechargeable
+battery when it can no longer hold a charge.</context>
+<steps>
+<step>
+<cmd>Remove the rear battery cover.</cmd></step>
+<step>
+<cmd>Remove the battery.</cmd></step>
+<step>
+<cmd>Replace the battery.</cmd></step>
+<step>
+<cmd>Replace the rear battery cover.</cmd></step></steps></taskbody></task>

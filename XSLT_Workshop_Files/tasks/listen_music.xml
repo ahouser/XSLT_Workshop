@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="listen_music" platform="music" ditaarch:DITAArchVersion="1.0">
+<title>Listening to music</title>
+<taskbody><context><p>You can use your phone to play MP3 music files.
+Use the provided headphones, or you can supply your own headphones
+with a 1/8-inch stereo jack.</p><p>To listen to music:</p></context>
+<steps><step><cmd>Plug your headphones into the headphone jack.</cmd></step>
+<step><cmd>Press the <uicontrol>menu</uicontrol> key, and choose <uicontrol>music
+library</uicontrol>.</cmd></step>
+<step><cmd>Click the <uicontrol>volume</uicontrol> buttons to adjust
+the music volume up or down., and choose </cmd></step>
+<step><cmd>Scroll through the list of songs with the arrow keys.
+Click <userinput>o.k.</userinput> to play a song. Your phone will
+continue to play the songs in your library, in order, until you
+click <uicontrol>end</uicontrol>.</cmd></step></steps></taskbody></task>

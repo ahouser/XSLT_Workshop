@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Changing the letter case</title>
+<prolog/>
+<taskbody>
+<context><p>You
+can use your keypad to enter both upper- and lower-case letters.</p><p>To change the case of the alphabetic characters:</p></context>
+<steps>
+<step>
+<cmd>If you want to use a combination
+of upper- and lower-case letters, toggle between the two by pressing
+the <uicontrol>pound (#)</uicontrol> key
+before entering the next letter.</cmd></step></steps></taskbody></task>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Downloading new ringtones</title>
+<prolog/>
+<taskbody>
+<context><p>You
+may wish to customize your phone by downloading personalized ringtones. Note that 
+additional charges may apply.</p><p>To
+download a ringtone:</p></context>
+<steps>
+<step>
+<cmd>Choose <uicontrol>Download ringtones</uicontrol>.</cmd></step>
+<step>
+<cmd>Choose the ringtone you wish to download.</cmd></step>
+<step>
+<cmd>Choose <uicontrol>o.k.</uicontrol></cmd></step></steps></taskbody></task>

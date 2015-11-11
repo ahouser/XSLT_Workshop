@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ 
+  Copyright 2006 Group Wellesley, Inc.
+
+-->
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>Making a call</title>
+<prolog/>
+<taskbody>
+<context><p>You
+may make a call by dialing a telephone number, or by selecting a
+contact from your address book.</p><p>To make
+a call:</p></context>
+<steps>
+<step>
+<cmd>Dial the number you wish to
+call, then press <uicontrol>send</uicontrol> key.</cmd></step>
+<step>
+<cmd>Press <uicontrol>menu</uicontrol>,
+then choose <uicontrol>contact list</uicontrol>. Uses the arrow
+keys to select a name from your contact list, then then press <uicontrol>send</uicontrol> key.</cmd></step></steps></taskbody></task>

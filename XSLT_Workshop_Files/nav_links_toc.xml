@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE tasklist [
+<!ENTITY turn_on_off SYSTEM "tasks/turn_on_off.xml">
+<!ENTITY attach_battery SYSTEM "tasks/attach_battery.xml">
+<!ENTITY charge_battery SYSTEM "tasks/charge_battery.xml">
+
+<!ENTITY detach_battery SYSTEM "tasks/detach_battery.xml">
+<!ENTITY make_call SYSTEM "tasks/make_call.xml">
+<!ENTITY answer_call SYSTEM "tasks/answer_call.xml">
+<!ENTITY replace_battery SYSTEM "tasks/replace_battery.xml">
+<!ENTITY watch_video SYSTEM "tasks/watch_video.xml">
+
+<!ENTITY enter_text SYSTEM "tasks/enter_text.xml">
+<!ENTITY change_case SYSTEM "tasks/change_case.xml">
+<!ENTITY enter_special_chars SYSTEM "tasks/enter_special_chars.xml">
+
+<!ENTITY listen_music SYSTEM "tasks/listen_music.xml">
+<!ENTITY select_ringtone SYSTEM "tasks/select_ringtone.xml">
+
+<!ENTITY download_ringtone SYSTEM "tasks/download_ringtone.xml">
+<!ENTITY set_up_voicemail SYSTEM "tasks/set_up_voicemail.xml">
+<!ENTITY check_message SYSTEM "tasks/check_message.xml">
+
+]>
+<?xml-stylesheet type="text/xsl" href="nav_links_toc.xsl"?>
+<tasklist>
+&turn_on_off;
+&attach_battery;
+&charge_battery;
+&detach_battery;
+
+&make_call;
+&answer_call;
+
+&replace_battery;
+&watch_video;
+&enter_text;
+&change_case;
+&enter_special_chars;
+&listen_music;
+&select_ringtone;
+&download_ringtone;
+&set_up_voicemail;
+&check_message;
+
+</tasklist>
+
