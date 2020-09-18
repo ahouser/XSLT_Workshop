@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<article>
+    <h1 id="ariaid-title1">Is Your Predictive Analytical Modeling Wrong?</h1>
+
+    <div>
+        <p>"All models are wrong; some models are useful." Given how pervasive predictive analytical
+            modeling has become in all corners of insurance, this quote serves as an important
+            reminder that models are mere approximations of the real world. While beneficial, models
+            should not be used as a substitute for critical thinking.</p>
+        <p>"All models are wrong; some models are useful." This quote, displayed years ago at the
+            entrance to a major insurer's investment group, reminds us of how ubiquitous predictive
+            analytical modeling has become in insurance. The original quote, "Remember that all
+            models are wrong; the practical question is how wrong do they have to be to not be
+            useful," is attributed to George E.P. Box, a renowned British statistician.</p>
+        <p>Given how pervasive predictive analytical modeling has b| br ecome in all corners of
+            insurance, the quote serves as an important reminder that models are mere approximations
+            of the real world. While they certainly can be beneficial, models should not be used as
+            a substitute for required critical thinking as supplied by management and the board of
+            directors.</p>
+        <p>A casual Internet search on "predictive analytical modeling in insurance" turns up
+            hundreds of articles. A Deloitte white paper published on the Society of Actuaries
+            website states that "The use of advanced data mining techniques to improve decision
+            making has already taken root in property and casualty insurance as well as in many
+            other industries." Captive.com recently featured "<a
+                href="https://www.captive.com/news/2017/06/14/what-is-the-future-of-individual-claims-reserving"
+                >What Is the Future of Individual Claims Reserving</a>?" describing how modeling is
+            changing the face of claims reserving. From assets to underwriting, there is no corner
+            of the insurance industry that has not been changed as a result of this technology. </p>
+        <p>The problem arises, however, when we allow ourselves to be lulled into thinking that the
+            models are infallible. Long-Term Capital Management (LTCM) provides an excellent case in
+            point. LTCM was a Greenwich, Connecticut-based hedge fund founded by John Meriwether,
+            the former vice chairman and head of bond trading at Salomon Brothers. Its board of
+            directors included Myron S. Scholes and Robert C. Merton, who shared the 1997 Nobel
+            Prize in Economics for their work on derivatives pricing. LTCM collapsed in 1998 after
+            having lost $4.6 billion in 4 months. The firm used an absolute return strategy based on
+            arbitrage models that predicted the likelihood of the scenario that wiped them out was
+            less than a hundredth of a percent. </p>
+        <p>Roger Lowenstein, author of <em>When Genius Failed: The Rise and Fall of Long-Term
+                Capital Management,</em> which recounts the demise of LTCM, wrote a piece titled "<a
+                href="http://www.nytimes.com/2008/09/07/business/worldbusiness/07iht-07ltcm.15941880.html"
+                >Long-Term Capital Management: It's a short-term memory</a>" published in the
+                <em>New York Times</em> September 7, 2008, immediately following the financial
+            crisis. Mr. Lowenstein states the following in the article.</p>
+        <p>The Long-Term Capital fiasco momentarily shocked Wall Street out of its complacent trust
+            in financial models, and was replete with lessons, for Washington as well as for Wall
+            Street. But the lessons were ignored, and in this decade, the mistakes were repeated
+            with far more harmful consequences. Instead of learning from the past, Wall Street has
+            re-enacted it in larger form, in the mortgage debacle [and] credit crisis.</p>
+        <blockquote>In the wake of Long-Term Capital's failure, Wall Street professed to have
+            learned that even models designed by "geniuses" were subject to error and to the
+            uncertainties that inevitably afflict human forecasts.... Whether this wisdom endured
+            may be judged by events of the past year, when not only Bear Stearns but also scores of
+            banks and financial institutions have written off hundreds of billions of dollars—a
+            result of blithe faith in models....</blockquote>
+        <p>Assuming the insurance industry is not looking to replicate the mistakes of the financial
+            industry, the question becomes how wrong do the models need to be before they become
+            useless? And, how do we guard against the implicit bias that models are correct? Alton
+            Cogert, president and CEO of Strategic Asset Alliance, offers some useful pointers for
+            how to test the usefulness of a model. These include the following.</p>
+        <ol>
+            <li> How long has the model been in existence? Longevity does not inherently correspond
+                with usefulness, but it does provide some assurance that the users find it helpful
+                and it has been vetted. </li>
+            <li> How accurately does it reflect the real world? A corollary we would add is how
+                simple or complex is the model structure? Too many variables in a model may make it
+                very difficult to ascertain what each variable is contributing to the output. Overly
+                complex multivariable models may produce dramatically different results with very
+                minor changes to several variables, which leads to confusion as to what is actually
+                driving the outcome. </li>
+            <li> Closely aligned with question 2 above is whether the users of the model can easily
+                explain the assumptions, structure, and output of the model in layman's terms. In
+                other words, do the users and even the builders of the model have the ability to
+                describe how and what it does without having to lapse into jargon? If not, how do
+                you interpret the results rationally to determine if they are accurate? </li>
+        </ol>
+        <p> There is no denying that predictive analytical modeling and artificial intelligence are
+            becoming more entrenched in insurance and are here to stay. The bigger question is
+            whether this will be a net positive or negative for the industry. Pew Research Center
+            released a report earlier this year titled <em><a
+                    href="http://www.pewinternet.org/2017/02/08/code-dependent-pros-and-cons-of-the-algorithm-age/"
+                    >Code-Dependent: Pros and Cons of the Algorithm Age</a></em>. It makes for very
+            interesting reading and should be required reading for all management and boards in our
+            industry. There is no replacement for "human" common sense.</p>
+        <p> </p>
+        <ol>
+            <li id="unique_1_Connect_42_jd1">For further reading, see "<a href="https://www.linkedin.com/pulse/your-asset-allocation-model-wrong-alton-cogert?trk=v-feed&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3ByDW4iXqsdIsbSX6TcWM5Jw%3D%3D"
+                    >Your Asset Allocation Model Is Wrong</a>!" by Alton Cogert of Strategic Asset
+                Alliance. </li>
+        </ol>
+    </div>
+</article>
